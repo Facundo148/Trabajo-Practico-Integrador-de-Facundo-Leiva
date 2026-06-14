@@ -128,7 +128,7 @@ ______________________________
 
 # Dataset
 
-El archivo "paises.csv" contiene inicialmente tres países de ejemplo.
+El archivo "paises.csv" contiene inicialmente dos países de ejemplo.
 
 El usuario puede completar el resto de los registros utilizando la opción de agregar países disponible en el menú.
 
