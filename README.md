@@ -137,6 +137,8 @@ ______________________________
 
 Facundo Nahuel Leiva
 
-Links: 
+Enlaces:
+
 Video: https://youtu.be/8iiPxyAjZ8g
+
 Pdf: https://docs.google.com/document/d/e/2PACX-1vRmIondz4Z7uFuL9L1wX6njdpcEOkTQz_YEyLhVUyqMl1WR2BFursqQ8SPRBjx-nisr54xvulMPAOiE/pub
