@@ -1,6 +1,5 @@
 # Sistema de Gestión de Países 
 
-
 # Descripción 
 
 Este programa fue desarrollado en Python y permite gestionar información de países almacenada en un archivo CSV.
